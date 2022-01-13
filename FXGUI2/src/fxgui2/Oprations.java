@@ -1,7 +1,7 @@
 
 package fxgui2;
 
-//port fxassignment.show_tbl;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.application.Application;
